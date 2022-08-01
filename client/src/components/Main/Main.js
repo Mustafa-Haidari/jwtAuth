@@ -14,6 +14,9 @@ const Main = () => {
 					Logout
 				</button>
 			</nav>
+			<div className="container">
+				<h3>Body</h3>
+			</div>
 		</div>
 	);
 };
